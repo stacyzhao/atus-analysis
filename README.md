@@ -9,5 +9,4 @@ Analyzing How Americans Spend Time using U.S. Department of Labor's data on Amer
 * Python3
 * Jupyter Notebook
 * Make sure you install requirements.txt
-
   pip install -r requirements.txt
